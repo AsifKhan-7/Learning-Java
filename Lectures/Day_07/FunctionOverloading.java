@@ -1,4 +1,3 @@
-import java.util.*;
 
 public class FunctionOverloading {
 
@@ -26,8 +25,8 @@ public class FunctionOverloading {
   
   
   public static void main(String[]args) {
-     System.out.println(sum( 1,2));
-     System.out.println(sum(1.1f, 2.1f ));
+    /*  System.out.println(sum( 1,2));
+     System.out.println(sum(1.1f, 2.1f )); */
 
   }
 }
